@@ -45,7 +45,7 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
             setBadge(tabId, 'You CAN easily delete your account on this website 😍', 'YES', '#00FE00')
 
         } else {
-            setBadge(tabId, 'Click and report if you know 🙏', '???', '#000000')           
+            setBadge(tabId, 'Click and report if you know 🙏', '❔', '#000000')           
         }
 
     }

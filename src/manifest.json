@@ -3,11 +3,26 @@
   "description":"Can you delete your account on this website (easily)?",
   "manifest_version":3,
   "version":"1.0.0",
+  "author":{
+    "email":"sir.kokabi@gmail.com"
+  },
+  "homepage_url": "https://sir-kokabi.github.io/deletable/",
   "permissions":["tabs","storage"],
 
   "background":{
     "service_worker":"background.js"
   },
-
-  "action":{}
+  "icons":{
+    "16":"images/16.png",
+    "32":"images/32.png",
+    "48":"images/48.png",
+    "128":"images/128.png"
+  },
+  "action":{
+    "default_icon":{
+      "16": "images/16.png",
+      "24": "images/24.png",
+      "32": "images/32.png"
+    }
+  }
 }
