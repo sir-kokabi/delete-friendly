@@ -1,0 +1,13 @@
+{
+  "name":"Deletable",
+  "description":"Can (easily) delete account on this website?",
+  "manifest_version":3,
+  "version":"1.0",
+  "permissions":["tabs","storage"],
+
+  "background":{
+    "service_worker":"background.js"
+  },
+
+  "action":{}
+}
