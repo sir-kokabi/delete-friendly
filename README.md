@@ -14,6 +14,5 @@ You can make this extension better by:
 3. Add a domain to the **black list** if deleting account requires additional steps, such as contacting customer support or addressing any ifs and buts.
 
 ## Data resources
-https://github.com/justdeleteme/justdelete.me
-
-https://github.com/rtbf-ir/rtbf.ir
+- https://github.com/justdeleteme/justdelete.me
+- https://github.com/rtbf-ir/rtbf.ir
