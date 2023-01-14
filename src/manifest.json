@@ -1,12 +1,11 @@
 {
-  "name":"Deletable",
+  "name":"Delete Friendly",
   "description":"Can you delete your account on this website (easily)?",
   "manifest_version":3,
   "version":"1.0.0",
   "author":{
     "email":"sir.kokabi@gmail.com"
   },
-  "homepage_url": "https://sir-kokabi.github.io/deletable/",
   "permissions":["tabs","storage"],
 
   "background":{
