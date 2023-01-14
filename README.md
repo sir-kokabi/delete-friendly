@@ -1,9 +1,9 @@
-# Delete Friendly Chrome extension
+# Delete Friendly - Chrome extension
 This extension tells you if a website lets you delete your account with just "**one click and bang**" without any further procedures, contact with customer support, or other "ifs and buts".
 
 ## Contributing
 You can make this extension better by:
-1. Adding new websites to white-list.txt or black-list.txt
+1. Adding new websites to [white-list.txt](white-list.txt) or [black-list.txt](black-list.txt)
 2. Reporting issues and suggesting new features
 3. Coding and resolving reported issues or any other code development.
 
