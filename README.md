@@ -1,1 +1,1 @@
-# deletable
+# delete-friendly
