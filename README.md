@@ -3,7 +3,7 @@ This extension lets you know if a website allows you to delete your account only
 
 ## Contributing
 You can make this extension better by:
-1. [Adding new websites](/tree/main/data/)
+1. [Adding new websites](data)
 2. Reporting issues and offer new functionality
 3. Resolving reported issues and code development
 
