@@ -1,17 +1,17 @@
 # Delete Friendly - Chrome extension
-This extension tells you if a website lets you delete your account with just "**one click and bang!**" without any further procedures, contact with customer support, or other damn ifs and buts. This helps you to double think before signing up on a website.
+This extension lets you know if a website allows you to delete your account only with "one click and bang!" or not; without any other procedure, contact with customer support, or other ifs and buts. This helps you think twice before registering for a web site.
 
 ## Contributing
 You can make this extension better by:
-1. Adding new websites to [white-list.txt](white-list.txt) or [black-list.txt](black-list.txt)
-2. Reporting issues and suggesting new features
-3. Coding and resolving reported issues or any other code development.
+1. [Adding new websites](Rules-to-add-new-website)
+2. Reporting issues and offer new functionality
+3. Coding and resolving reported issues or any other code development
 
 ## Rules to add new website
 
-1. Only add the main domain. For example for "**my.panel.domain.ca.uk**", just add "**domain.ca.uk**"
-2. Add a domain to the **white-list** only if it provides an easy way to delete account. That means, one click and delete, without any extra steps.
-3. Add a domain to the **black list** if deleting account requires additional steps, such as contacting customer support or addressing any ifs and buts.
+1. Add only the main domain. For example for "**my.panel.domain.ca.uk**", simply add "**domain.ca.uk**"
+2. Add a domain to the [white-list.txt](white-list.txt) only if account deletion is easy and does not require additional steps
+3. Add a domain to the [black-list.txt](black-list.txt) if account deletion is not possible or requires additional steps, such as contacting customer
 
 ## Data resources
 - https://github.com/justdeleteme/justdelete.me
