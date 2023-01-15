@@ -1,6 +1,6 @@
 {
   "name":"Delete Friendly",
-  "description":"Can you delete your account on this website (easily)?",
+  "description":"Does this website allow you yo delete your account (easily)?",
   "manifest_version":3,
   "version":"1.0.0",
   "author":{
@@ -22,6 +22,7 @@
       "16": "images/16.png",
       "24": "images/24.png",
       "32": "images/32.png"
-    }
+    },
+    "default_popup":"popup/popup.html"
   }
 }
