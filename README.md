@@ -5,7 +5,7 @@ This extension lets you know if a website allows you to delete your account only
 You can make this extension better by:
 1. [Adding new websites](#Rules-to-add-new-website)
 2. Reporting issues and offer new functionality
-3. Coding and resolving reported issues or any other code development
+3. Resolving reported issues and code development
 
 ## Rules to add new website
 
