@@ -1,4 +1,4 @@
-name: Get latest url from resources
+name: Review and update lists
 
 on: 
   workflow_dispatch:
@@ -32,6 +32,6 @@ jobs:
       - name: Push back changes          
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "white-list and black-list has been updated"
+          commit_message: "white-list and black-list were updated"
           commit_user_name: "updater-bot"
           commit_user_email: "updater-bot@users.noreply.github.com"
