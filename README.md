@@ -1,5 +1,5 @@
 # Delete Friendly - Chrome extension
-This extension lets you know if a website allows you to delete your account only with "one click and bang!" or not; without any other procedure, contact with customer support, or other ifs and buts. This helps you think twice before sign up for a website.
+This extension lets you know whether a website allows you to delete your account only with "one click and bang!" without any extra steps like contact with customer support, or others ifs and buts. This helps you think twice before registering for a website.
 
 ## Contribution
 You can make this extension better by:
