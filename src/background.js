@@ -37,7 +37,7 @@ async function runUpdater() {
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     if (changeInfo.status == 'loading') {
-        //TODO: Extract the main domain and compare with it; for example: https://www.panel.domain.co.uk => domain.co.uk
+        //TODO: Extract the main domain and compare with it; for example: https://www.my.domain.co.uk => domain.co.uk
         if (blackList.find(u => tab.url.includes(u))) {
             setBadge(tabId, 'Unable or difficult to delete your account 😠', 'NO', '#FE0000')
 
