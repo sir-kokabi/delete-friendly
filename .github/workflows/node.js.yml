@@ -1,0 +1,37 @@
+name: Get latest url from resources
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+  
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      
+      - name: Run script
+        run: node update-list.js
+
+      - name: Push back changes          
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "white-list and black-list has been updated"
+          commit_user_name: "updater-bot"
+          commit_user_email: "updater-bot@users.noreply.github.com"
