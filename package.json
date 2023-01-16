@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "extract-domain": "^2.4.8",
+    "parse-domain": "^7.0.1",
+    "psl": "^1.9.0"
+  }
+}

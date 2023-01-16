@@ -30,9 +30,10 @@ async function runUpdater() {
     }
 }
 
-(async () => {
-    await runUpdater()}
-)()
+(async () => {    
+    await runUpdater()
+    //await updateLists
+})()
 
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
