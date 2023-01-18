@@ -4,8 +4,10 @@ const extractDomain = require('extract-domain')
 var whiteList = [];
 var blackList = [];
 
-whiteList = fs.readFileSync('data/white-list.txt').toString().split("\n");
-blackList = fs.readFileSync('data/black-list.txt').toString().split("\n");
+try{
+    whiteList = fs.readFileSync('data/white-list.txt').toString().split("\n");
+    blackList = fs.readFileSync('data/black-list.txt').toString().split("\n");
+}catch{}
 
 
 (async () => {
