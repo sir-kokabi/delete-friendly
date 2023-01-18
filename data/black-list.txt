@@ -1143,3 +1143,5 @@ zendesk.com
 zeplin.io
 zhaket.com
 zynga.com
+taaghche.com
+test.com
