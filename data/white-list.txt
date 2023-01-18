@@ -361,6 +361,7 @@ google.co.vi
 google.co.za
 google.co.zm
 google.co.zw
+google.com
 google.com.af
 google.com.ag
 google.com.ai
