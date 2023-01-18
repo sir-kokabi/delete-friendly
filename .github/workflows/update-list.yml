@@ -29,7 +29,7 @@ jobs:
       - name: Run script
         run: |
           npm ci
-          node update-list.js
+          node update-list.js --unhandled-rejections=none
 
       - name: Push back changes          
         uses: stefanzweifel/git-auto-commit-action@v4
