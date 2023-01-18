@@ -53,7 +53,6 @@ blackList = fs.readFileSync('data/black-list.txt').toString().split("\n");
     blackList = blackList.map(x => x.trim());
     blackList = [... new Set(blackList)];
     blackList.sort();
-    x = 0
     writeArrayToFile(blackList, "data/black-list.txt");
 
 })()
