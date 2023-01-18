@@ -1025,6 +1025,7 @@ tempocrypto.com
 tenor.com
 tenpercent.com
 terracycle.com
+test.com
 tetherland.com
 textplus.com
 theatlantic.com
@@ -1143,5 +1144,3 @@ zendesk.com
 zeplin.io
 zhaket.com
 zynga.com
-taaghche.com
-test.com
