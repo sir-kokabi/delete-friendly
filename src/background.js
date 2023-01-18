@@ -13,8 +13,7 @@ async function updateLists() {
 
 async function runUpdater() {
     let black = (await chrome.storage.local.get('blackList')).blackList
-    let white = (await chrome.storage.local.get('whiteList')).whiteList
-    console.log(white);
+    let white = (await chrome.storage.local.get('whiteList')).whiteList    
     if (typeof black != 'undefined' && typeof white != 'undefined') {
         blackList = black.split('\n')
         whiteList = white.split('\n')
@@ -32,7 +31,6 @@ async function runUpdater() {
 
 (async () => {    
     await runUpdater()
-    //await updateLists
 })()
 
 
