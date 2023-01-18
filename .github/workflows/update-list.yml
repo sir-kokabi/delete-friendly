@@ -27,7 +27,9 @@ jobs:
           cache: 'npm'
       
       - name: Run script
-        run: node update-list.js
+        run: |
+          npm ci
+          node update-list.js
 
       - name: Push back changes          
         uses: stefanzweifel/git-auto-commit-action@v4
