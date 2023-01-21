@@ -13,7 +13,7 @@ async function updateLists() {
 
 async function runUpdater() {
     let black = (await chrome.storage.local.get('blackList')).blackList;
-    let white = (await chrome.storage.local.get('whiteList')).whiteList; 
+    let white = (await chrome.storage.local.get('whiteList')).whiteList;
     if (typeof black != 'undefined' && typeof white != 'undefined') {
         blackList = black.split('\n');
         whiteList = white.split('\n');
@@ -29,23 +29,25 @@ async function runUpdater() {
     }
 }
 
-(async () => {    
-    await runUpdater();     
+(async () => {
+    await runUpdater();
 })()
 
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     if (changeInfo.status == 'loading') {
         //TODO: Extract the main domain and compare with it; for example: https://www.my.domain.co.uk => domain.co.uk
-        if (blackList.find(u => tab.url.includes(u))) {
+        let inInBlackList = blackList.find(u => tab.url.includes(u));
+        let inInWhiteList = whiteList.find(u => tab.url.includes(u));
+
+        if (inInBlackList === inInWhiteList) {
+            setBadge(tabId, 'Click and report if you know 🙏', '❔', '#000000');
+
+        } else if (inInBlackList) {
             setBadge(tabId, 'Unable or difficult to delete your account 😠', 'NO', '#FE0000');
-            
 
-        } else if (whiteList.find(u => tab.url.includes(u))) {
-            setBadge(tabId, "It's easy to delete your account 😍", "YES", "#00FE00");         
-
-        } else {
-            setBadge(tabId, 'Click and report if you know 🙏', '❔', '#000000');           
+        } else if (inInWhiteList) {
+            setBadge(tabId, "It's easy to delete your account 😍", "YES", "#00FE00");
         }
 
     }
