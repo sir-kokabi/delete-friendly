@@ -41,7 +41,6 @@ amazon.ca
 amazon.cn
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
@@ -127,7 +126,6 @@ bitwarden.com
 blendswap.com
 blinkist.com
 blogfa.com
-blogger.com
 blueapron.com
 boardgamearena.com
 boardgamegeek.com
@@ -162,7 +160,6 @@ cloudconvert.com
 cloudmagic.com
 codeanywhere.com
 codeberg.org
-codecademy.com
 codechef.com
 codepen.io
 codeproject.com
@@ -210,7 +207,6 @@ disqus.com
 disroot.org
 dnsimple.com
 dochub.com
-docker.com
 domains.google
 doodle.com
 douban.com
@@ -284,6 +280,7 @@ g2a.com
 gainsfire.com
 ganjoor.net
 geocaching.com
+geogebra.org
 geoguessr.com
 getcloudapp.com
 getcreditscore.com.au
@@ -361,7 +358,6 @@ google.co.vi
 google.co.za
 google.co.zm
 google.co.zw
-google.com
 google.com.af
 google.com.ag
 google.com.ai
@@ -549,9 +545,9 @@ helloacasa.com
 hellofax.com
 hellowallet.com
 helpscout.com
-helpshift.com
 heroku.com
 herox.com
+hetzner.com
 hh.ru
 hi5.com
 hide.me
@@ -658,7 +654,6 @@ lampyre.io
 last.fm
 lastpass.com
 launchpad.net
-lenovo.com
 letterboxd.com
 letudiant.fr
 letyshops.com
@@ -718,12 +713,10 @@ mixcloud.com
 mixlr.com
 mobillsapp.com
 mockflow.com
-mojang.com
 moneylover.me
 moneysavingexpert.com
 monkeytype.com
 moviepilot.de
-mozilla.org
 msi.com
 muambator.com.br
 musescore.com
@@ -741,10 +734,8 @@ n11.com
 namazso.eu
 nanowrimo.org
 netdata.cloud
-netlify.com
 netvibes.com
 newgrounds.com
-newrelic.com
 newsblur.com
 nexo.io
 nextdns.io
@@ -1111,7 +1102,6 @@ zaya.io
 zeeg.me
 zendesk.co.jp
 zendesk.co.uk
-zendesk.com
 zendesk.com.br
 zendesk.com.mx
 zendesk.de

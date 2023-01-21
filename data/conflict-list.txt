@@ -1,0 +1,12 @@
+amazon.com
+blogger.com
+codecademy.com
+docker.com
+google.com
+helpshift.com
+lenovo.com
+mojang.com
+mozilla.org
+netlify.com
+newrelic.com
+zendesk.com

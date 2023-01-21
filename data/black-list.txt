@@ -122,7 +122,6 @@ albiononline.com
 alibaba.ir
 alienwarearena.com
 alocontent.com
-amazon.com
 andaman7.com
 androidfilehost.com
 anghami.com
@@ -195,7 +194,6 @@ blackspigot.com
 blenderartists.org
 blinkee.city
 blizzard.com
-blogger.com
 bloomingdales.com
 bluebird.com
 bluejeans.com
@@ -266,7 +264,6 @@ cloudflare.com
 cloudron.io
 cnet.com
 code42.com
-codecademy.com
 codecanyon.net
 codecombat.com
 codeforces.com
@@ -332,7 +329,6 @@ discordstatus.com
 discourse.org
 divar.ir
 dlh.net
-docker.com
 docmorris.de
 docusign.com
 doit.life
@@ -511,7 +507,6 @@ gog.com
 goggles4u.co.uk
 goggles4u.com
 gogoair.com
-google.com
 grailed.com
 graphicriver.net
 gravatar.com
@@ -543,7 +538,6 @@ headliner.app
 heartsofiron4.com
 helloforos.com
 hellofresh.com
-helpshift.com
 hepsiburada.com
 hirezstudios.com
 hitbtc.com
@@ -637,7 +631,6 @@ ldjam.com
 leagueoflegends.com
 leetcode.com
 lendo.ir
-lenovo.com
 lenstore.co.uk
 letgo.com
 level1techs.com
@@ -728,7 +721,6 @@ mister-wong.de
 mizbansam.com
 mizito.ir
 mobify.com
-mojang.com
 moneydashboard.com
 mongard.ir
 mongodb.com
@@ -739,7 +731,6 @@ morningstar.com
 motamem.org
 mouser.co.uk
 mouser.com
-mozilla.org
 munzee.com
 myanimelist.net
 mydevices.com
@@ -762,10 +753,8 @@ neon.com.br
 neopets.com
 netacad.com
 netflix.com
-netlify.com
 netology.ru
 nevisesh.com
-newrelic.com
 newspipe.org
 nextdoor.com
 nic.ir
@@ -1139,7 +1128,6 @@ zarinpal.com
 zazzle.com
 zeit.de
 zelkaa.com
-zendesk.com
 zeplin.io
 zhaket.com
 zynga.com

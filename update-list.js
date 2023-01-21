@@ -1,5 +1,5 @@
 const fs = require('fs');
-const extractDomain = require('extract-domain')
+const extractDomain = require('extract-domain');
 
 var whiteList = [];
 var blackList = [];
@@ -19,7 +19,7 @@ try{
         entries.forEach(entry => {
             domains = entry.domains.filter(x => x); // Remove empty lines
             domains = extractDomain(domains, { tld: true });
-            domains = domains.filter(x => /.*[\.].+/.test(x))
+            domains = domains.filter(x => /.*[\.].+/.test(x));
             if (entry.difficulty === 'easy') {
                 whiteList.push(...domains);
             } else {
@@ -47,15 +47,21 @@ try{
     whiteList = whiteList.filter(x => x); // Remove empty lines    
     whiteList = whiteList.map(x => x.trim());
     whiteList = [... new Set(whiteList)];
-    whiteList.sort();
-
-    writeArrayToFile(whiteList, "data/white-list.txt");
 
     blackList = blackList.filter(x => x);    
     blackList = blackList.map(x => x.trim());
     blackList = [... new Set(blackList)];
+
+    let sameDomains = whiteList.filter(x=>blackList.includes(x));
+    whiteList = whiteList.filter(x=>!sameDomains.includes(x));
+    blackList = blackList.filter(x=>!sameDomains.includes(x));
+
+    whiteList.sort();
     blackList.sort();
+
+    writeArrayToFile(whiteList, "data/white-list.txt");
     writeArrayToFile(blackList, "data/black-list.txt");
+    writeArrayToFile(sameDomains, "data/conflict-list.txt");
 
 })()
 
