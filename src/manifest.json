@@ -3,6 +3,7 @@
   "description":"Can you (simply) delete your account from the website you visit?",
   "manifest_version":3,
   "version":"1.0.0",
+  "homepage_url": "https://github.com/sir-kokabi/delete-friendly",
   "author":{
     "email":"sir.kokabi@gmail.com"
   },
