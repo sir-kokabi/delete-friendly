@@ -1,7 +1,7 @@
 # Delete Friendly - Chrome extension
-This extension lets you know whether a website allows you to delete your account only with "one click and bang!" without any extra steps like contact with customer support, or others ifs and buts. 
+Delete Friendly lets you know whether a website allows you to delete your account (easily) without any extra steps like contact with customer support, waiting for confirmation, asking money, or any other ifs and buts. 
 
-This helps you think twice before registering for a website.
+Simply put, any website which allows you to delete your account with just *one click and bang* is considered as a delete-friendly website. This helps you think twice before registering for a website.
 
 ## How to install
 1. [Download the extension](https://github.com/sir-kokabi/delete-friendly/archive/refs/heads/main.zip) and extract zip on the desktop.
@@ -12,10 +12,9 @@ This helps you think twice before registering for a website.
 
 
 ## Contribution
-You can make this extension better by:
-1. [Adding new websites](data)
-2. Reporting issues and offer new functionality
-3. Resolving reported issues and develop code
+You can help contribute by using the extension, [adding new websites](data), report or modify reported websites, finding bugs, opening issues, offering new feathers. 
+
+Pull requests are also appreciated!
 
 ## Resources
 - https://github.com/justdeleteme/justdelete.me
