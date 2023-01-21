@@ -3,6 +3,14 @@ This extension lets you know whether a website allows you to delete your account
 
 This helps you think twice before registering for a website.
 
+## How to install
+1. [Download the extension](https://github.com/sir-kokabi/delete-friendly/archive/refs/heads/main.zip) and extract zip on the desktop.
+2. Open chrome extensions panel by visiting `chrome://extensions`.
+3. Turn `developer mode` on.
+4. Drag `src` folder into extensions panel.
+5. Now whenever you want to signup in a website ,take a look at the extension. If it says **YES** with a green background, you can safely signup for that website because you can delete your account at any time. If it says **No** with a red background, you should think twice. You might want to signup using a temporary email address!
+
+
 ## Contribution
 You can make this extension better by:
 1. [Adding new websites](data)
