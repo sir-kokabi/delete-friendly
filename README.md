@@ -3,7 +3,7 @@ Delete Friendly lets you know whether a website allows you to delete your accoun
 
 Simply put, any website which allows you to delete your account with just *one click and bang* is considered as a delete-friendly website. This helps you think twice before registering for a website.
 
-## How to install
+## Installation
 1. [Download the extension](https://github.com/sir-kokabi/delete-friendly/archive/refs/heads/main.zip) and extract zip on the desktop.
 2. Open chrome extensions panel by visiting `chrome://extensions`.
 3. Turn `developer mode` on.
