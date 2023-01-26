@@ -16,10 +16,10 @@ You can help contribute by using the extension, [adding new websites](data), rep
 
 Pull requests are also appreciated!
 
-## Resources
-- https://github.com/justdeleteme/justdelete.me
-- https://github.com/rtbf-ir/rtbf.ir
-
 ## Donation
 - **Bitcoin:** 1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R
 - **ETH:** 0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450
+
+## Resources
+- https://github.com/justdeleteme/justdelete.me
+- https://github.com/rtbf-ir/rtbf.ir
