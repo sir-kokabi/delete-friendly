@@ -1,6 +1,6 @@
 # Delete Friendly - Chrome extension
 ![](preview.jpg)
-Delete Friendly lets you know whether a website allows you to delete your account (easily) without any extra steps like contact with customer support, waiting for confirmation, asking money, or any other ifs and buts. 
+**Delete Friendly** lets you know whether a website allows you to delete your account (easily) without any extra steps like contact with customer support, waiting for confirmation, asking money, or any other ifs and buts. 
 
 Simply put, any website which allows you to delete your account with just *one click and bang* is considered as a delete-friendly website. This helps you think twice before registering for a website.
 
