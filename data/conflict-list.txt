@@ -4,7 +4,6 @@ zendesk.com
 docker.com
 mozilla.org
 blogger.com
-google.com
 lenovo.com
 mojang.com
 netlify.com
