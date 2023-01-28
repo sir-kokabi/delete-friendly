@@ -3,9 +3,11 @@
 
 Usually, the story goes like this:
 
-We decide to delete our account on a website. We search for delete account, deactivate account, danger area, etc, but nothing are there! We blame ourselves for sign up to such a website. Even if we have the time and patience to follow up, it still annoys us! Such a website has violated our freedom and is not delete friendly!
+We decide to delete our account on a website. We search for delete account, deactivate account, danger area, etc, but nothing are there! We blame ourselves for sign up to such a website. Even if we have the time and patience to follow up, it still annoys us! 
 
-**Delete Friendly** is a chrome extension to let you know whether or not a website allows you to delete your account (easily) without any extra steps like contact with customer support, waiting for confirmation, asking money, or any other ifs and buts. 
+Such a website has violated our freedom and is not delete friendly!
+
+**Delete Friendly** is a chrome extension to let you know whether a website allows you to delete your account (easily) without any extra steps like contact with customer support, waiting for confirmation, asking money, or any other ifs and buts. 
 
 Simply put, any website which allows you to delete your account with just *one click and bang* is considered as a delete friendly. This helps you think twice before registering for a website.
 
