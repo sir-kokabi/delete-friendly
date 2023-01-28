@@ -27,6 +27,7 @@ Pull requests are also appreciated!
 ## Donation
 - **Bitcoin:** 1LUbbaAGKFkaSXgDhD4AAc8i2kipW6Qh2R
 - **ETH:** 0xaEC3571C6207B05A41Ab35b40a4B6DF04A072450
+- https://zarinp.al/kokabi
 
 ## Resources
 - https://github.com/justdeleteme/justdelete.me
