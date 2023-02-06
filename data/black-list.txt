@@ -795,6 +795,7 @@ opencores.org
 opendesktop.org
 openinvest.co
 openinvest.com
+oracle.com
 oreilly.com
 osbuddy.com
 otaghak.com
