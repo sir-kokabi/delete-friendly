@@ -9,6 +9,7 @@
 4pda.ru
 4pda.to
 7digital.com
+7ho.st
 7plus.com.au
 8tracks.com
 99designs.com
@@ -158,6 +159,7 @@ authy.com
 autodesk.com
 avclub.com
 axs.com
+azaronline.com
 azki.com
 azmvdnow.gov
 babbel.com
@@ -172,6 +174,7 @@ battle.net
 beamng.com
 behinsu24.com
 berbidserver.com
+bertina.ir
 bestbuy.ca
 bestbuy.com
 bestbuypromotions.ca
@@ -476,6 +479,7 @@ gamejolt.com
 gamekult.com/forum
 gamespot.com
 gamigo.com
+ganje.host
 garena.sg
 gasbuddy.com
 gaug.es
@@ -509,6 +513,7 @@ gog.com
 goggles4u.co.uk
 goggles4u.com
 gogoair.com
+gorz.ir
 grailed.com
 graphicriver.net
 gravatar.com
@@ -549,6 +554,7 @@ hol.org.uk
 hookedapp.com
 hoop.photo
 hostelsclub.com
+hostiran.net
 hotspotshield.com
 houzz.com
 hover.com
@@ -576,10 +582,12 @@ investopedia.com
 invisionapp.com
 ipinfo.io
 iranads.club
+iranhost.com
 iranianxdesign.com
 iranicard.ir
 iranserver.com
 irantalent.com
+iranweb.org
 isic.ir
 istudentpro.com
 itch.io
@@ -640,6 +648,7 @@ li.me
 liara.ir
 liberland.org
 lifehacker.com
+limoo.host
 limoonad.com
 linkedin.com
 linkinpark.com
@@ -720,6 +729,7 @@ milanote.com
 minecraft.net
 mintos.com
 mister-wong.de
+mizbanfa.net
 mizbansam.com
 mizito.ir
 mobify.com
@@ -733,6 +743,7 @@ morningstar.com
 motamem.org
 mouser.co.uk
 mouser.com
+mr90.ir
 munzee.com
 myanimelist.net
 mydevices.com
@@ -754,6 +765,7 @@ nearpod.com
 neon.com.br
 neopets.com
 netacad.com
+netafraz.com
 netflix.com
 netology.ru
 nevisesh.com
@@ -812,7 +824,9 @@ paradoxplaza.com
 paramountplus.com
 parkmobile.com
 parkmobile.us
+pars.host
 parspack.com
+parswebserver.com
 paturnpike.com
 paypal.com
 payping.ir
@@ -871,6 +885,7 @@ quanticfoundry.com
 quera.ir
 quintoandar.com.br
 quip.com
+radcom.co
 radiooooo.com
 raileurope.com
 rakuten.ca
@@ -920,6 +935,7 @@ rubika.ir
 rueducommerce.fr
 runescape.com
 rust-lang.org
+saba.host
 sabavision.com
 sammobile.com
 satispay.com
@@ -1007,6 +1023,7 @@ teachable.com
 teachoo.com
 teamspeak.com
 tebex.io
+tebyan.net
 technicpack.net
 technolife.ir
 ted.com
@@ -1097,6 +1114,7 @@ wallex.ir
 walmart.ca
 walmart.com
 wargaming.net
+webramz.com
 webtickets.co.za
 wedbio.com
 westernunion.ch
