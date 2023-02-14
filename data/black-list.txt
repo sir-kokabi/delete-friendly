@@ -803,6 +803,7 @@ onemonth.com
 oneskyapp.com
 online.net
 onlinetvrecorder.com
+openai.com
 opencores.org
 opendesktop.org
 openinvest.co
@@ -849,6 +850,7 @@ picpay.me
 pimoroni.com
 pinterest.com
 pivotaltracker.com
+pixelstarships.com
 pixum.com
 planetminecraft.com
 plantsnap.com
