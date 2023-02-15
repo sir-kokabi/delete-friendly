@@ -172,6 +172,7 @@ coingecko.com
 commun.it
 conte.it
 corellium.com
+correl.app
 coub.com
 coursera.org
 creditkarma.com
@@ -712,6 +713,7 @@ miro.com
 mit.edu
 mixcloud.com
 mixlr.com
+mmorpg.com
 mobillsapp.com
 mockflow.com
 moneylover.me
