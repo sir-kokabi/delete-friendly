@@ -10,4 +10,3 @@ mojang.com
 netlify.com
 newrelic.com
 helpshift.com
-scavify.com
