@@ -195,6 +195,7 @@ datacamp.com
 dayone.me
 dev.to
 devpost.com
+dhl.de
 diasp.eu
 dice.com
 dict.cc

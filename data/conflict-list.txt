@@ -1,6 +1,5 @@
 amazon.com
 codecademy.com
-dhl.de
 zendesk.com
 docker.com
 mozilla.org
