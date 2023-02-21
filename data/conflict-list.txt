@@ -10,3 +10,4 @@ mojang.com
 netlify.com
 newrelic.com
 helpshift.com
+ultimate-guitar.com

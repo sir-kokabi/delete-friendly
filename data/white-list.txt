@@ -158,6 +158,7 @@ clickup.com
 clockify.me
 cloudconvert.com
 cloudmagic.com
+coda.io
 codeanywhere.com
 codeberg.org
 codechef.com
