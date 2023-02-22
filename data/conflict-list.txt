@@ -1,4 +1,5 @@
 amazon.com
+aparat.com
 codecademy.com
 zendesk.com
 docker.com
@@ -10,4 +11,3 @@ mojang.com
 netlify.com
 newrelic.com
 helpshift.com
-ultimate-guitar.com
