@@ -52,6 +52,7 @@ amazon.fr
 amazon.in
 amazon.it
 amazon.nl
+ancestry.com
 angel.co
 anilist.co
 anime-planet.com

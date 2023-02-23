@@ -56,6 +56,7 @@ adfoc.us
 afraid.org
 afranet.com
 afroozschool.org
+agoda.com
 aiqfome.com
 airbnb.ae
 airbnb.at
@@ -120,6 +121,7 @@ airvpn.org
 akaipro.com
 alaatv.com
 albiononline.com
+aldoshoes.com
 alibaba.ir
 alienwarearena.com
 alocontent.com
@@ -936,6 +938,7 @@ rubika.ir
 rueducommerce.fr
 runescape.com
 rust-lang.org
+rytr.me
 saba.host
 sabavision.com
 sammobile.com
