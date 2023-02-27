@@ -185,6 +185,7 @@ betterment.com
 bhphotovideo.com
 bidoo.com
 bignerdranch.com
+bigstockphoto.com
 bimito.com
 binance.com
 bitbucket.org
@@ -205,6 +206,7 @@ bnz.co.nz
 bodybuilding.com
 bohemia.net
 boingboing.net
+boingo.com
 bol.com
 bookbub.com
 booklooker.de
@@ -286,6 +288,7 @@ collegeboard.org
 commentcamarche.net
 commondreams.org
 containo.us
+controlpanel.tech
 coolors.co
 couchsurfing.com
 couchsurfing.org
@@ -331,6 +334,7 @@ discord.com
 discordapp.com
 discordstatus.com
 discourse.org
+disneyplus.com
 divar.ir
 dji.com
 dlh.net
@@ -489,6 +493,7 @@ gemsofwar.com
 geni.com
 genius.com
 gentoo.org
+get.tech
 getacceptd.com
 getbring.com
 getcontact.com
@@ -1015,6 +1020,7 @@ t-nation.com
 taaghche.com
 tabnine.com
 tamasha.com
+tanga.com
 tapsi.ir
 tarafdari.com
 target.com
@@ -1061,6 +1067,7 @@ toluna.com
 tomtom.com
 topcoder.com
 torproject.org
+trademe.co.nz
 tragicbeautiful.com
 transitsherpa.com
 trionworlds.com
@@ -1138,6 +1145,7 @@ wolframalpha.com
 wordpress.org
 workable.com
 workupload.com
+worldmarket.com
 wt.social
 wyzecam.com
 xda-developers.com
