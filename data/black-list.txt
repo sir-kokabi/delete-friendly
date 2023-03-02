@@ -453,11 +453,13 @@ fiverr.com
 flixster.com
 floatplane.com
 flowkey.com
+fluidui.com
 foap.com
 folksy.com
 follett.com
 follettsoftware.com
 fontiran.com
+forevermissed.com
 forward2me.com
 fossfa.ir
 fotka.pl
@@ -776,6 +778,8 @@ netflix.com
 netology.ru
 nevisesh.com
 newspipe.org
+nexon.com
+nexon.net
 nextdoor.com
 nic.ir
 nih.gov
