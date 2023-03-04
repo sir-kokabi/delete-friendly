@@ -292,6 +292,7 @@ g2a.com
 gainsfire.com
 gametracker.com
 ganjoor.net
+geeksforgeeks.org
 geocaching.com
 geogebra.org
 geoguessr.com
@@ -674,6 +675,7 @@ letyshops.com
 lh.com
 librarything.de
 libre.fm
+lichess.org
 lingvist.com
 linktr.ee
 linode.com
@@ -705,6 +707,7 @@ marvelapp.com
 mastodon.social
 mathway.com
 mbed.com
+mcdonalds.com
 mcdonalds.de
 medium.com
 meetfranz.com
@@ -838,6 +841,7 @@ pushover.net
 put.io
 pypi.org
 pythonmorsels.com
+qq.com
 quizlet.com
 quora.com
 radio.fr
@@ -1071,6 +1075,7 @@ web.de
 webex.com
 webtoons.com
 webull.com
+wechat.com
 weebly.com
 weheartit.com
 wg-gesucht.de
