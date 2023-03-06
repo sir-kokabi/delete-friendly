@@ -155,6 +155,7 @@ changelly.com
 channel4.com
 checklist.com
 cl.ly
+classmates.com
 clickup.com
 clockify.me
 cloudconvert.com
@@ -220,6 +221,7 @@ disroot.org
 dnsimple.com
 dochub.com
 domains.google
+doneo.com
 doodle.com
 douban.com
 downapp.com
@@ -731,6 +733,7 @@ mixlr.com
 mmorpg.com
 mobillsapp.com
 mockflow.com
+molotov.tv
 moneylover.me
 moneysavingexpert.com
 monkeytype.com
@@ -780,6 +783,7 @@ office.com
 okcupid.com
 onecompiler.com
 onet.pl
+onlyfans.com
 opendns.com
 openstreetmap.org
 openweather.co.uk
@@ -907,6 +911,7 @@ setapp.com
 seznam.cz
 shadow.tech
 sharelatex.com
+sharesome.com
 shinden.pl
 shop.app
 shopify.com
